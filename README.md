@@ -6,13 +6,12 @@
 
 ### [Framework描述](https://github.com/OS-Q/N6/wiki) 
 
-[Framework N6](https://github.com/OS-Q/N6) 用于支持GD32V平台运行
+[Framework N6](https://github.com/OS-Q/N6) 用于支持[ Platform : H2](https://github.com/OS-Q/H2) ，本仓库针对自动化导入编程进行优化，可能会牺牲部分可阅读性。
 
 ### [关联资源](https://github.com/OS-Q/)
 
- *  [ Platform : GD32V](https://github.com/OS-Q/H2) 
-*   [Framework N7](https://github.com/OS-Q/N7)
- *  [ M1](https://github.com/OS-Q/M1) 
+*  [ Platform : H2](https://github.com/OS-Q/H2) 
+*  [ Framework : N7](https://github.com/OS-Q/N7) 
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N6)
-####  2019-9-9
+####  2019-9-17
