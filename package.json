@@ -1,6 +1,6 @@
 {
     "name": "framework-N26",
-    "description": "SPL for gd32vf103 : firmware library",
+    "description": "SPL for gd32vf103 :  standard firmware library",
     "version": "1.0.0",
     "url": "https://www.sipeed.com"
 }
