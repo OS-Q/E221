@@ -1,6 +1,6 @@
 {
-    "name": "E26A",
-    "description": "SPL for gd32vf103 :  standard firmware library",
+    "name": "E22A",
+    "description": "SPL for gd32vf103 standard firmware library",
     "version": "1.0.0",
     "url": "https://www.sipeed.com"
 }
